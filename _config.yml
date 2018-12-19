@@ -83,8 +83,8 @@ author:
   name             : "Alex Hoagland"
   avatar           : "profile.jpg"
   bio              : "I am a second-year economics PhD student at Boston University, currently specializing in health and development economics and applied econometrics. My research focuses on gaps in innovations between research and practice, particularly in mental health."
-  location         : "Boston, MA"
-  employer         : "Boston University"
+  location         :
+  employer         : "Boston University, Boston, MA"
   googlescholar    : "https://scholar.google.com/citations?user=Ks-_ZlIAAAAJ&hl=en"
   email            : "alcobe@bu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -95,13 +95,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/alex-hoagland"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
