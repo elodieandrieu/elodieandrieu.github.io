@@ -5,7 +5,7 @@ permalink: /dataandcode/
 author_profile: true
 ---
 
-Materials coming soon.
+Materials coming soon! 
 
 {% include base_path %}
 
