@@ -3,8 +3,13 @@ title: "News Coverage of Safety Inspection Research"
 collection: talks
 type: "Media"
 permalink: /talks/safety-coverage
+date: 2018-07-25
 location: "International"
 ---
+
+This page contains op-ed articles, briefing papers, and updates on how our paper on vehicle safety inspections has influenced public policy in the United States and the United Kingdom. 
+
+
 
 United Kingdom: MOT Testing
 -----
