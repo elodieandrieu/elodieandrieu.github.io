@@ -7,25 +7,50 @@ redirect_from:
   - /resume
 ---
 
+[Download my CV here](http://alex-hoagland.github.io/files/HoaglandCV_current.pdf)
+
 {% include base_path %}
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.A. in Economics & B.S. in Mathematics, Brigham Young University, 2017
+* Ph.D in Economics, Boston University, 2023 (expected)
+
+Publications
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* May 2018--Present: Research Assistant
+  * Harvard School of Public Health
+  * Supervisor: Tim Layton
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* January 2012--August 2017: Research Assistant
+  * Brigham Young University, Department of Economics
+  * Multiple projects in financial and family economics
+  * Supervisors: Scott Condie, Jocelyn Wikle
+  
+Teaching
+======
+* 2019: Econometrics (Masters), Boston University
+* 2018: Mathematics for Economics (Masters), Boston University
+* 2018: Statistics for Economics (Masters), Boston University
+* 2017: Advanced Microeconomic Theory (PhD), Brigham Young University
+* 2017: Topology (Masters), Brigham Young University
+* 2015-2016: Intermediate Microeconomic Theory (undergrad), Brigham Young University
+
+Conference Presentations
+=====
+* Time Use Across the Life Course Conference, University of Maryland (June 2018)
+
+Fellowships, Grants, & Awards
+=====
+* 1st Place, Mary Lou Fulton Conference, Provo, Utah, March 2017
+* External Grant, Office of Creative Research and Activities, Provo, Utah, January 2017
+* Honorable Mention, Sigma Journal of Political and International Studies, April 2018
   
 Skills
 ======
@@ -36,24 +61,14 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+Personal
+=====
+* Languages: English (native), Spanish (fluent), Portugese (beginner)
+* Citizenship: United States
+* Programming: STATA, R, Python, SAS, Matlab, LaTeX, ArcGIS
+
+Other Publications
+=====
+* “Drivers of Safety: The Outdated Practice of MOT Testing” (briefing paper). Adam Smith Institute, July 2018.
+* “MOT Testing Distracts From the Real Danger—Drivers” (op-ed). The Times, July 2018.
+* “Who is My Neighbor? Identifying Epistemic Peers among Polarized Communities?” (political philosophy article). Sigma Journal of Political and International Studies, April 2018.
