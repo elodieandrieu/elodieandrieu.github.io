@@ -10,7 +10,7 @@ main:
     url: /cv/
     
   - title: "Code and Data"
-    url: /codedata/
+    url: /dataandcode/
 
   - title: "Talks and Media"
     url: /talks/    
