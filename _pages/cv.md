@@ -35,12 +35,16 @@ Work experience
   
 Teaching
 ======
-* 2019: Econometrics (Masters), Boston University
-* 2018: Mathematics for Economics (Masters), Boston University
-* 2018: Statistics for Economics (Masters), Boston University
-* 2017: Advanced Microeconomic Theory (PhD), Brigham Young University
-* 2017: Topology (Masters), Brigham Young University
-* 2015-2016: Intermediate Microeconomic Theory (undergrad), Brigham Young University
+* 2019: 
+   * Econometrics (Masters), Boston University
+* 2018: 
+   * Mathematics for Economics (Masters), Boston University
+   * Statistics for Economics (Masters), Boston University
+* 2017: 
+   * Advanced Microeconomic Theory (PhD), Brigham Young University
+   * Topology (Masters), Brigham Young University
+* 2015-2016: 
+   * Intermediate Microeconomic Theory (undergrad), Brigham Young University
 
 Conference Presentations
 =====
@@ -51,15 +55,6 @@ Fellowships, Grants, & Awards
 * 1st Place, Mary Lou Fulton Conference, Provo, Utah, March 2017
 * External Grant, Office of Creative Research and Activities, Provo, Utah, January 2017
 * Honorable Mention, Sigma Journal of Political and International Studies, April 2018
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Personal
 =====
