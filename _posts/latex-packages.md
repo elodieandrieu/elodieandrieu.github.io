@@ -1,7 +1,7 @@
 ---
 title: 'LaTeX Packages for Economists'
 date: 2018-12-21
-permalink: /posts/latex-packages/
+permalink: /posts/2018/12/latex-packages/
 tags:
   - latex
   - econtools
