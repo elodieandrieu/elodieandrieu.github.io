@@ -1,7 +1,7 @@
 ---
 title: 'Political Philosophy Article: Community Building'
 date: 2018-04-10
-permalink: /posts/political-philosophy/
+permalink: /posts/2018/04/political-philosophy/
 tags:
   - non-econ stuff
 ---
