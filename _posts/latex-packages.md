@@ -14,5 +14,3 @@ Main heading
 
 Subheading
 ------
-
-## Test subheading
