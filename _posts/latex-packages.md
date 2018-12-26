@@ -1,6 +1,7 @@
 ---
 title: 'LaTeX Packages for Economists'
 date: 2018-12-21
+collection: posts
 permalink: /posts/2018/12/latex-packages/
 tags:
   - latex
