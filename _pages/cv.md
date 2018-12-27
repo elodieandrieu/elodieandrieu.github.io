@@ -22,6 +22,10 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
+  <ul>{% for post in site.working_papers %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
 Work experience
 ======
 * May 2018--Present: Research Assistant
