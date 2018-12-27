@@ -27,7 +27,12 @@ We use a synthetic controls approach to analyze the impact of discontinuing vehi
 
 Key Results
 -----
-![Synthetic Controls](https://alex-hoagland.github.com/tree/master/images/Vehicles_Synthetic_Controls.PNG)
+Figure 2 shows the results of the synthetic controls analysis. The panels on the left show how vehicle fatalities (both in general and specifically those related to car failure) evolve over time for synthetic and real New Jersey, where the dashed black line indicates where New Jersey discontinued the requirement for inspections. If there were an effect of doing so, it would manifest itself in differences between the two trends after this point &mdash; however, as the panels on the right show, the differences between the two trends do not grow after the law change. This suggests that ending the requirements for vehicle safety inspections did not lead to increases in fatalities related to vehicle failure, at least in the first 5 years following the law change.
+![Synthetic Controls](https://github.com/alex-hoagland/alex-hoagland.github.io/blob/master/images/Vehicles_Synthetic_Controls.PNG)
 
-![Placebo Tests](https://alex-hoagland.github.com/tree/master/images/Vehicles_Placebos.PNG)
+Figure 3 tests the validity of these results using a series of placebo tests common to the synthetic controls approach. These placebo tests randomly re-assign the law change implemented by New Jersey to one of 15 other states which currently require safety inspections, and then re-run the analysis. Intuitively, these analyses test the magnitude of the results of the original synthetic controls approach, which are shown in blue (with the placebo tests shown in gray) &mdash; in this case, the results from the actual law change are estimated to be *well within* the effects of these hypothetical law changes. This suggests that the null effect of the New Jersey law change is, in fact, a null effect. 
+![Placebo Tests](https://github.com/alex-hoagland/alex-hoagland.github.io/blob/master/images/Vehicles_Placebos.PNG)
 
+Real-World Applications
+-----
+I highly recommend a read of the full paper for more details on the analysis, results, and interpretation. In addition, [this page](https://alex-hoagland.github.io/talks/safety-coverage) on my website includes several discussions of the research aimed at non-specialist audiences. My co-author and I were privileged to work with Dan McCay and the Utah State Legislature to draft and pass a bill that discontinued vehicle safety inspections in the state of Utah as a result of this reserach. 
