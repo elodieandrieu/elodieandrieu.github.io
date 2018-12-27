@@ -246,7 +246,7 @@ defaults:
       path: ""
       type: working_papers
     values:
-      layout: working_papers
+      layout: single
       author_profile: true
       share: true
 
