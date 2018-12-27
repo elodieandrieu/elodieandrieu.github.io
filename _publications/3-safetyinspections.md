@@ -31,7 +31,7 @@ Figure 2 shows the results of the synthetic controls analysis. The panels on the
 ![Synthetic Controls](https://github.com/alex-hoagland/alex-hoagland.github.io/blob/master/images/Vehicles_Synthetic_Controls.PNG =75x)
 
 Figure 3 tests the validity of these results using a series of placebo tests common to the synthetic controls approach. These placebo tests randomly re-assign the law change implemented by New Jersey to one of 15 other states which currently require safety inspections, and then re-run the analysis. Intuitively, these analyses test the magnitude of the results of the original synthetic controls approach, which are shown in blue (with the placebo tests shown in gray) &mdash; in this case, the results from the actual law change are estimated to be *well within* the effects of these hypothetical law changes. This suggests that the null effect of the New Jersey law change is, in fact, a null effect. 
-<img src="https://github.com/alex-hoagland/alex-hoagland.github.io/blob/master/images/Vehicles_Placebos.PNG" width="48">
+<img src="https://github.com/alex-hoagland/alex-hoagland.github.io/blob/master/images/Vehicles_Placebos.PNG" width="148">
 
 Real-World Applications
 -----
