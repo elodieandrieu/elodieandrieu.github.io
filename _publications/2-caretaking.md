@@ -26,7 +26,7 @@ We analyzed time use for 5,170 adolescents between the ages of 15 and 18 using t
 Key Results
 -----
 The logistic regression: 
-![alt text](https://github.com/alex-hoagland/alex-hoagland.github.io/tree/master/images/Caretaking_Logit.png "Logit Regression Results")
+<div style="text-align:center"><img src="https://github.com/alex-hoagland/alex-hoagland.github.io/blob/master/images/Caretaking_Logit.PNG" width="500"></div>
 
 The OLS regression: 
-![alt text](https://github.com/alex-hoagland/alex-hoagland.github.io/tree/master/images/Caretaking_OLS.png "OLS Regression Results")
+<div style="text-align:center"><img src="https://github.com/alex-hoagland/alex-hoagland.github.io/blob/master/images/Caretaking_OLS.PNG" width="500"></div>
