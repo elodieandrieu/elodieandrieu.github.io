@@ -8,7 +8,7 @@ tags:
   - category2
 ---
 
-Check out my article on community building [here](http://politikos.byu.edu/SigmaMag/2018.pdf#page=86)
+Check out my article on community building [here](http://politikos.byu.edu/SigmaMag/2018.pdf#page=86). 
 
 Quick Summary
 =====
