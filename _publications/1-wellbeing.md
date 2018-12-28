@@ -7,7 +7,7 @@ venue: 'Working Paper'
 date: 2018-01-01
 ---
 
-Adolescents spend more time outside of the home as they interact more with friends, neighbors and mentors. These interactions play a prominent role in long-run adolescent development, and could potentially compensate for a lack of interaction with parents and family members for adolescents from non-nuclear homes. This study contributes the first data-driven study of the immediate emotional response of adolescents from varying home structures as they spend time with friends, mentors, and other adults in their community.
+Adolescents spend more time outside of the home as they interact more with friends, neighbors and mentors; these interactions play a prominent role in long-run adolescent development. This study contributes the first data-driven study of the immediate emotional response of adolescents from varying home structures as they spend time with friends, mentors, and other adults in their community.
 
 Summary:
 =====
