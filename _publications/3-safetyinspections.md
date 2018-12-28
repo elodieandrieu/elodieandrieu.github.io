@@ -29,13 +29,12 @@ Key Results
 -----
 Figure 2 shows the results of the synthetic controls analysis. The panels on the left show how vehicle fatalities (both in general and specifically those related to car failure) evolve over time for synthetic and real New Jersey, where the dashed black line indicates where New Jersey discontinued the requirement for inspections. If there were an effect of doing so, it would manifest itself in differences between the two trends after this point &mdash; however, as the panels on the right show, the differences between the two trends do not grow after the law change. This suggests that ending the requirements for vehicle safety inspections did not lead to increases in fatalities related to vehicle failure, at least in the first 5 years following the law change.
 
-<div style="text-align:center"><img src="https://github.com/alex-hoagland/alex-hoagland.github.io/blob/master/images/Vehicles_Synthetic_Controls.PNG" width="500"></div>
-
-<br/><img src='/images/Vehicles_Synthetic_Controls.PNG'>
+<br/><img src='/images/Vehicles_Synthetic_Controls.PNG' width="100">
 
 Figure 3 tests the validity of these results using a series of placebo tests common to the synthetic controls approach. These placebo tests randomly re-assign the law change implemented by New Jersey to one of 15 other states which currently require safety inspections, and then re-run the analysis. Intuitively, these analyses test the magnitude of the results of the original synthetic controls approach, which are shown in blue (with the placebo tests shown in gray) &mdash; in this case, the results from the actual law change are estimated to be *well within* the effects of these hypothetical law changes. This suggests that the null effect of the New Jersey law change is, in fact, a null effect. 
 
-<div style="text-align:center"><img src="https://github.com/alex-hoagland/alex-hoagland.github.io/blob/master/images/Vehicles_Placebos.PNG" width="300"></div>
+<br/><img src='/images/Vehicles_Placebos.PNG' width="100">
+
 
 Real-World Applications
 -----
