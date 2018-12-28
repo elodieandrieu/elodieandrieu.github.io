@@ -25,8 +25,8 @@ We analyzed time use for 5,170 adolescents between the ages of 15 and 18 using t
 
 Key Results
 -----
-The logistic regression: 
+Table 3 shows the results from the logistic regression analysis exploring the likelihood of care provision. In general, engaging in caretaking activities is commonly induced by parents, and more common among teens with younger siblings. Interestingly, this effect is gendered &mdash; girls are more likely to engage in childcare than boys, and each is more likely to care for younger siblings of their same sex. Interestingly, there is a time effect in childcare prevalence, with childcare increasing and prevailing following the 2008 Recession. 
 <div style="text-align:center"><img src="https://github.com/alex-hoagland/alex-hoagland.github.io/blob/master/images/Caretaking_Logit.PNG" width="500"></div>
 
-The OLS regression: 
+Table 4 shows a similar analysis examining the *quality* of sibling care; that is, we examine the proportion of time in sibling caregiving which is dedicated to *direct* care (e.g. interacting with the sibling rather than simply being home alone with them). Results are similarly gendered, in that girls are more likely to provide direct care; however, teen caregivers are more likely to give direct care to younger siblings that are closer to their own age regardless of sex. Additionally, even though caregiving increased following the recession, the proportion of direct caregiving declined slightly during that period. 
 <div style="text-align:center"><img src="https://github.com/alex-hoagland/alex-hoagland.github.io/blob/master/images/Caretaking_OLS.PNG" width="500"></div>
