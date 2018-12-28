@@ -37,4 +37,4 @@ Figure 3 tests the validity of these results using a series of placebo tests com
 
 Real-World Applications
 -----
-I highly recommend a read of the full paper for more details on the analysis, results, and interpretation. In addition, [this page](https://alex-hoagland.github.io/talks/safety-coverage) on my website includes several discussions of the research aimed at non-specialist audiences. My co-author and I were privileged to work with Dan McCay and the Utah State Legislature to draft and pass a bill that discontinued vehicle safety inspections in the state of Utah as a result of this reserach. 
+I highly recommend a read of the full paper for more details on the analysis, results, and interpretation. In addition, [this page](https://alex-hoagland.github.io/talks/safety-coverage) on my website includes several discussions of the research aimed at non-specialist audiences. My co-author and I were privileged to work with [Dan McCay](http://www.danmccay.com) and the Utah State Legislature to draft and pass a bill that discontinued vehicle safety inspections in the state of Utah as a result of this reserach. 
