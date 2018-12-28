@@ -3,9 +3,8 @@ title: 'Political Philosophy Article: Community Building'
 date: 2018-04-10
 permalink: /posts/2018/04/political-philosophy/
 tags:
-  - cool posts
-  - category1
-  - category2
+  - non-econ stuff
+  - philosophy
 ---
 
 Check out my article on community building [here](http://politikos.byu.edu/SigmaMag/2018.pdf#page=86). 
