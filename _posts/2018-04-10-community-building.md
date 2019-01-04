@@ -5,6 +5,7 @@ permalink: /posts/2018/04/political-philosophy/
 tags:
   - non-econ stuff
   - philosophy
+comment: true
 ---
 
 Check out my article on community building [here](http://politikos.byu.edu/SigmaMag/2018.pdf#page=86). 
