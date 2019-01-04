@@ -5,6 +5,7 @@ permalink: /posts/2018/12/latex-packages/
 tags:
   - latex
   - econtools
+comment: true
 ---
 
 Most economists in training are familiar with the basics of LaTeX for clean math typesetting. Many have probably already used LaTeX for a problem set or similar assignment, or even a short paper. In fact, LaTeX is an extremely versatile software, and with the proper techniques you can create stunning papers, slides, and reports. But as your research becomes more independent and complex, you may find yourself spending an inordinate amount of time getting LaTeX to do exactly what you want. 
