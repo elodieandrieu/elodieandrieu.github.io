@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my website! I am an aspiring health economist, currently in the second year of an economics PhD from Boston University. My fields are health economics, applied econometrics, and development economics. In particular, my research focuses on the diffusion of innovations and gaps between research and practices; I'm especially interested in how these gaps affect treatment decisions and outcomes in mental health care.
+Welcome to my website! I am an aspiring health economist, currently in the second year of an economics PhD from Boston University. My fields are health economics, applied econometrics, and development economics. In particular, my current research focuses on innovation diffusion and gaps between research and practices; I'm especially interested in how these gaps affect treatment decisions and outcomes in mental health care.
 
 I received Bachelor's degrees in economics and mathematics from Brigham Young University in Provo, Utah, where I was privileged to work with amazing economists and legislators in projects exploring adolescent well-being, vehicle safety inspections, and political philosophy. You can learn more about each of these projects on this website.
 
