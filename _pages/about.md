@@ -6,6 +6,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+  {% seo %}
 ---
 
 Welcome to my website! I am an aspiring health economist, currently in the second year of an economics PhD from Boston University. My fields are health economics, applied econometrics, and development economics. In particular, my current research focuses on innovation diffusion and gaps between research and practices; I'm especially interested in how these gaps affect treatment decisions and outcomes in mental health care.
