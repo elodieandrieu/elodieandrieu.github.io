@@ -71,4 +71,4 @@ Other Publications
 * “Drivers of Safety: The Outdated Practice of MOT Testing” (briefing paper). Adam Smith Institute, July 2018.
 * “MOT Testing Distracts From the Real Danger—Drivers” (op-ed). The Times, July 2018.
 * “Who is My Neighbor? Identifying Epistemic Peers among Polarized Communities?” (political philosophy article). Sigma Journal of Political and International Studies, April 2018.
-* *Flash* (young adult novel), 2015.
+* [*Flash*](https://www.amazon.com/gp/product/1533070571/ref=dbs_a_def_rwt_bibl_vppi_i0) (young adult novel), 2015.
