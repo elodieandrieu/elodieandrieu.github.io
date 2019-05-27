@@ -60,6 +60,11 @@ Fellowships, Grants, & Awards
 * External Grant, Office of Creative Research and Activities, Provo, Utah, January 2017
 * Honorable Mention, Sigma Journal of Political and International Studies, April 2018
 
+Referee
+=====
+* 2018 &mdash; :  
+    * Economic Modelling
+
 Personal
 =====
 * Languages: English (native), Spanish (fluent), Portugese (beginner)
