@@ -1,0 +1,11 @@
+---
+title: "BU Econ Poster Session: Artisanal Innovations in Mental Health Care"
+collection: talks
+type: "Presentation"
+permalink: /talks/artisanal_innovation_poster
+date: 2019-05-01
+location: "Boston, MA"
+---
+
+Here you can find the poster presentation version of my second-year paper, as presented at Boston University's Economics Poster Session.
+
