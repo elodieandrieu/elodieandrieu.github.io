@@ -62,8 +62,7 @@ Fellowships, Grants, & Awards
 
 Referee
 =====
-* 2018 &mdash; :  
-    * Economic Modelling
+* 2018: Economic Modelling
 
 Personal
 =====
