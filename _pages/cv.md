@@ -14,7 +14,7 @@ redirect_from:
 Education
 ======
 * B.A. in Economics & B.S. in Mathematics, Brigham Young University, 2017
-* Ph.D in Economics, Boston University, 2021 (expected)
+* Ph.D in Economics, Boston University, 2022 (expected)
 
 Publications
 ======
