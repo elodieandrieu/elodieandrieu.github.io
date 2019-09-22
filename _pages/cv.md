@@ -13,7 +13,7 @@ redirect_from:
 
 Education
 ======
-* B.A. in Economics & B.S. in Mathematics, Brigham Young University, 2017
+* B.A. in Economics XXXX
 * Ph.D in Economics, KCL, 1st year
 
 Work experience
@@ -24,7 +24,7 @@ Work experience
   * Contributing in “Jobs and Skills” module of the horizontal “Going Digital” project
 
   * Supervisor: Mariagrazia Squicciarini
-===
+
 * January 2018--February 2108: Conducting field surveys 
   * The Abdul Latif Jameel Poverty Action Lab, « Surveys Voisin Malin - Petite Enfance », Paris
 
