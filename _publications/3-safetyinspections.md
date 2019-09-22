@@ -1,4 +1,3 @@
----
 title: "It's No Accident: Evaluating the Effectiveness of Vehicle Safety Inspections"
 collection: publications
 permalink: /publication/safetyinspections
