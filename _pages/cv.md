@@ -22,7 +22,6 @@ Work experience
   * Organisation for Economic Co-operation and Development
   * Science, Technology and Innovation (STI) Directorate, OECD, Paris
   * Contributing in “Jobs and Skills” module of the horizontal “Going Digital” project
-
   * Supervisor: Mariagrazia Squicciarini
 
 * January 2018--February 2108: Conducting field surveys 
