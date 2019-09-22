@@ -14,21 +14,22 @@ redirect_from:
 Education
 ======
 * B.A. in Economics & B.S. in Mathematics, Brigham Young University, 2017
-* Ph.D in Economics, Boston University, 2022 (expected)
+* Ph.D in Economics, KCL, 1st year
 
 Work experience
 ======
-* May 2018--Present: Research Assistant
-  * Harvard School of Public Health
-  * Supervisor: Tim Layton
+* June 2018--July 2019: Consultant 
+  * Organisation for Economic Co-operation and Development
+  * Science, Technology and Innovation (STI) Directorate, OECD, Paris
+  * Contributing in “Jobs and Skills” module of the horizontal “Going Digital” project
 
-* January 2012--August 2017: Research Assistant
-  * Brigham Young University, Department of Economics
-  * Multiple projects in financial and family economics
-  * Supervisors: Scott Condie, Jocelyn Wikle
+  * Supervisor: Mariagrazia Squicciarini
+===
+* January 2018--February 2108: Conducting field surveys 
+  * The Abdul Latif Jameel Poverty Action Lab, « Surveys Voisin Malin - Petite Enfance », Paris
 
 Personal
 =====
-* Languages: English (native), Spanish (fluent), Portugese (beginner)
-* Citizenship: United States
+* Languages: French (native), English (native), Spanish (beginner)
+* Citizenship: France & England
 * Programming: STATA, R, SAS, Matlab, LaTeX
