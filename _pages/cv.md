@@ -30,5 +30,5 @@ Work experience
 Personal
 =====
 * Languages: French (native), English (native), Spanish (beginner)
-* Citizenship: France & England
+* Nationality: French & English
 * Programming: STATA, R, SAS, Matlab, LaTeX
