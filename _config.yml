@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Elodie Andrieu"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Elodie Andrieu"
 description              : &description "Economics PhD student at King's College"
