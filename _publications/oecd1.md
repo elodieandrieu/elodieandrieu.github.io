@@ -2,7 +2,7 @@
 title: "Occupational transitions"
 collection: working_papers
 permalink: /publication/oecd1
-#excerpt: 'XXX'
+excerpt: 'XXX'
 venue: 'The cost of moving to a “safe haven”, Elodie Andrieu, Stéphanie Jamet, Luca Marcolin and Mariagrazia Squicciarini, OECD Publishing, https://doi.org/10.1787/6d3f9bff-en'
 paperurl: 'https://www.oecd-ilibrary.org/docserver/6d3f9bff-en.pdf?expires=1569185084&id=id&accname=guest&checksum=1C4B36F70CBD8EBAC1F3CD012EDA4C5D'
 ---
