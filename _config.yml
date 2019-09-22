@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Alex Hoagland"
+title                    : "Elodie Andrieu"
 title_separator          : "-"
-name                     : &name "Alex Hoagland"
-description              : &description "Economics PhD student at Boston University"
-url                      : https://alex-hoagland.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Elodie Andrieu"
+description              : &description "Economics PhD student at King's College"
+url                      : https://elodieandrieu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "alex-hoagland/alex-hoagland.github.io"
+repository               : "elodieandrieu/elodieandrieu.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -60,7 +60,7 @@ plugins:
 
 # Social Sharing
 twitter:
-  username               : &twitter "@Hoagland_Alex"
+  username               : 
 facebook:
   username               :
   app_id                 :
@@ -83,13 +83,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Alex Hoagland"
+  name             : "Elodie Andrieu"
   avatar           : "git_profile3.jpg"
-  bio              : "I am a second-year economics PhD student at Boston University, currently specializing in health and development economics and applied econometrics. My research focuses on gaps in innovations between research and practice, particularly in mental health."
+  bio              : "I am a first-year economics PhD student at KCL"
   location         :
-  employer         : "Boston University, Boston, MA"
-  googlescholar    : "https://scholar.google.com/citations?user=Ks-_ZlIAAAAJ&hl=en"
-  email            : "alcobe@bu.edu"
+  employer         : "KCL, London"
+  googlescholar    : 
+  email            : "elodie.andrieu@live.fr"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -98,7 +98,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "alex-hoagland"
+  github           : "elodieandrieu"
   google_plus      :
   keybase          :
   instagram        :
@@ -110,7 +110,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "@Hoagland_Alex"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
