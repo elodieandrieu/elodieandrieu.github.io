@@ -13,7 +13,7 @@ redirect_from:
 
 Education
 ======
-* B.A. in Economics XXXX
+* B.A. in Economics XXXX, Master and master thesis to add
 * Ph.D in Economics, KCL, 1st year
 
 Work experience
