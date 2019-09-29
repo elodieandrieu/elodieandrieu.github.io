@@ -87,9 +87,9 @@ author:
   avatar           : "photo_andrieu_website.jpg"
   bio              : "I am a first-year economics PhD student at KCL"
   location         :
-  employer         : "KCL, London"
+  employer         : "King's College London"
   googlescholar    : 
-  email            : "elodie.andrieu@live.fr"
+  email            : "elodie.andrieu@kcl.ac.uk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -103,7 +103,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/elodie-andrieu-228134127/"
   orcid            : 
   pinterest        :
   soundcloud       :
