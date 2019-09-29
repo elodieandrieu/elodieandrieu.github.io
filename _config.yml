@@ -85,7 +85,7 @@ analytics:
 author:
   name             : "Elodie Andrieu"
   avatar           : "photo_andrieu_website.jpg"
-  bio              : "I am a first-year economics PhD student at KCL"
+  bio              :
   location         :
   employer         : "King's College London"
   googlescholar    : 
@@ -103,7 +103,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/elodie-andrieu-228134127/"
+  linkedin         : "http://www.linkedin.com/in/elodie-andrieu-228134127/"
   orcid            : 
   pinterest        :
   soundcloud       :
