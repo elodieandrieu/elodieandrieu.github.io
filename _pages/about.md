@@ -8,8 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-PhD in Economics etc...
+
+I am a first-year economics PhD student at KCL, previously working at The Organisation for Economic Co-operation and Development.
 
 What's on this site?
 ======
-Browse 
+
+You can find my different on-going projects, my publications, and my work with the OECD. 
+
