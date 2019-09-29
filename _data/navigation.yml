@@ -8,12 +8,3 @@ main:
     
   - title: "CV"
     url: /cv/
-    
-  - title: "Code and Data"
-    url: /dataandcode/
-
-  - title: "Talks and Media"
-    url: /talks/    
-
-  - title: "Posts"
-    url: /year-archive/
