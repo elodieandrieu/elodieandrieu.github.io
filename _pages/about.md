@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am a first-year economics PhD student at KCL, previously working at The Organisation for Economic Co-operation and Development.
+I am a first-year economics PhD student at KCL, previously working at The Organisation for Economic Co-operation and Development (OECD).
 
 What's on this site?
 ======
