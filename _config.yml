@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
-name                     : &name "Elodie Andrieu"
+name                     : &name "                                            Elodie Andrieu"
 description              : &description "Economics PhD student at King's College"
 url                      : https://elodieandrieu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -85,7 +85,7 @@ analytics:
 author:
   name             : "Elodie Andrieu"
   avatar           : "photo_andrieu_website.jpg"
-  bio              : "                                                                                           "
+  bio              : "                                                                                                                                                                      "
   location         :
   employer         : "King's College London"
   googlescholar    : 
@@ -103,7 +103,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "http://www.linkedin.com/in/elodie-andrieu-228134127/"
+  linkedin         : "elodie-andrieu-228134127/"
   orcid            : 
   pinterest        :
   soundcloud       :
