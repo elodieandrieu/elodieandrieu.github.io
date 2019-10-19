@@ -9,10 +9,11 @@ redirect_from:
 ---
 
 
-I am a first-year economics PhD student at KCL, previously working at The Organisation for Economic Co-operation and Development (OECD).
+I am a first-year economics PhD student at King' College London, under the supervision of Professor Mary O'Mahony and Dr John Morrow.
+I hold a Master degree in Economics from the Paris School of Economics, and BA degree in Economics from the Aix-Marseille University. Prior to joining King’s College London, I worked as a Consultant at The Organisation for Economic Co-operation and Development (OECD) in Paris in the Science, Technology and Innovation department, under the supervision of Dr. Mariagrazia Squicciarini.
 
-What's on this site?
-======
+I was part of the Economic, Analysis and Statistics research team working on estimating the monetary cost of the training needed to move workers displaced by automation across occupations.
 
-You can find my different on-going projects, my publications, and my work with the OECD. 
-
+Research interests:
+====
+Labour economics, automation, productivity and tasks/skills.
