@@ -1,34 +1,31 @@
 ---
 layout: archive
-title: "CV"
+title: "  "
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-[Download my CV here](http://elodieandrieu.github.io/files/1. CV - ANDRIEU, ELODIE.pdf)
-
 {% include base_path %}
 
-Education
-======
-* B.A. in Economics XXXX, Master and master thesis to add
-* Ph.D in Economics, KCL, 1st year
+### Education
+* Ph.D in Economics, King's College London, 1st year
+* Master degree in Economics - Paris School of Economics (École des Hautes Etudes en Sciences Sociales)
+Master thesis: "Robots and workers: competition or collaboration?" under the supervision of Prof. Jean Imbs
+* B.A. in Economics - Aix-Marseille University
 
-Work experience
-======
-* June 2018--July 2019: Consultant 
-  * Organisation for Economic Co-operation and Development
-  * Science, Technology and Innovation (STI) Directorate, OECD, Paris
-  * Contributing in “Jobs and Skills” module of the horizontal “Going Digital” project
-  * Supervisor: Mariagrazia Squicciarini
 
-* January 2018--February 2108: Conducting field surveys 
-  * The Abdul Latif Jameel Poverty Action Lab, « Surveys Voisin Malin - Petite Enfance », Paris
+### Work experience
+* June 2018 - July 2019: Consultant at the Organisation for Economic Co-operation and Development - Paris
+Science, Technology and Innovation (STI) Directorate, contributing in “Jobs and Skills” module of the horizontal “Going Digital” project
+Supervisor: Mariagrazia Squicciarini
 
-Personal
-=====
+* January 2018--February 2108: Conducting field surveys for The Abdul Latif Jameel Poverty Action Lab, « Surveys Voisin Malin - Petite Enfance », Paris
+
+### Personal
 * Languages: French (native), English (native), Spanish (beginner)
 * Nationality: French & English
 * Programming: STATA, R, SAS, Matlab, LaTeX
+
+[CV (pdf)](http://elodieandrieu.github.io/files/1. CV - ANDRIEU, ELODIE.pdf)
