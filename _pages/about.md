@@ -16,5 +16,5 @@ Prior to joining King’s College London, I worked as a Consultant at **The Orga
 I was part of the Economic, Analysis and Statistics research team working on estimating the monetary cost of the training needed to move workers displaced by automation across occupations.
 
 #### Research interests:
-====
+
 Labour economics, automation, productivity and tasks/skills.
