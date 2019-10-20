@@ -25,3 +25,9 @@ author_profile: true
 <!--- {% for post in site.working_papers reversed %} --->
 <!--- {% include archive-single.html %} --->  
 <!--- {% endfor %} --->
+
+## Pre-doctoral publications
+
+**Occupational transitions: the cost of moving to a “safe haven”** (with S. Jamet, L. Marcolin and M. Squicciarini)
+
+*OECD Science, Technology and Industry Policy Papers* - 
