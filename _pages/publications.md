@@ -30,4 +30,4 @@ author_profile: true
 
 **Occupational transitions: the cost of moving to a “safe haven”** (with S. Jamet, L. Marcolin and M. Squicciarini)
 
-*OECD Science, Technology and Industry Policy Papers* - 
+*OECD Science, Technology and Industry Policy Papers, 2019* - https://doi.org/10.1787/6d3f9bff-en
