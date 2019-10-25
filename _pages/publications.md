@@ -1,9 +1,8 @@
 ---
 layout: archive
 permalink: /publications/
-
 ---
-### Publications 
+
 **[XXX](https://www.google.fr)** (with ..)  
 bbbb
 
