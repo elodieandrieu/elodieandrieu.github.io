@@ -7,7 +7,7 @@
   @include clearfix;
   margin-top: 2em;
   padding-left: 1em;
-  padding-right: 1em;
+  padding-right: 0.5em;
   animation: intro 0.3s both;
   animation-delay: 0.35s;
 
@@ -152,6 +152,7 @@
 
     .page__title {
       font-size: $type-size-2;
+      color: $header-color;
 
       @include breakpoint($small) {
         font-size: $type-size-1;
