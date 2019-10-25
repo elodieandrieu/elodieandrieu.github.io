@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Data and Code"
+title: " "
 permalink: /dataandcode/
 author_profile: true
 ---
