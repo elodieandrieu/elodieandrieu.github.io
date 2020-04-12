@@ -5,8 +5,8 @@ permalink: /teaching/
 author_profile: true
 ---
 
-### TA for Hector Espinoza and Christian Darko, London, 2019
-Principles of economics, undergraduate level
+### TA in Principles of economics, London, 2020
+Undergraduate level, Hector Espinoza and Christian Darko
 
 {% include base_path %}
 
