@@ -16,6 +16,8 @@ redirect_from:
 
 
 ### Work experience
+* February 2020 - present: RA Francesca Borgonovi, University College London
+
 * June 2018 - July 2019: Consultant at the **Organisation for Economic Co-operation and Development** - Paris  
 *Science, Technology and Innovation (STI) Directorate, contributing in “Jobs and Skills” module of the horizontal “Going Digital” project, under the supervision of Mariagrazia Squicciarini*
 
