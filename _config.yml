@@ -89,7 +89,7 @@ author:
                                                                                                                                                                       "
   location         :
   employer         : "King's College London"
-  googlescholar    : 
+  googlescholar    : "http://elodieandrieu.github.io/files/1. CV - ANDRIEU, ELODIE.pdf"
   email            : "elodie.andrieu@kcl.ac.uk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -97,7 +97,7 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "http://elodieandrieu.github.io/files/1. CV - ANDRIEU, ELODIE.pdf"
+  facebook         : 
   foursquare       :
   github           : "elodieandrieu"
   google_plus      :
