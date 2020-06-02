@@ -2,12 +2,12 @@
 layout: archive
 permalink: /publications/
 ---
+### Work in progress
+**Bowling together by bowling alone: Social capital and Covid-19** (with F. Borgovoni) 
+
 ### Publications
 **[Bowling together by bowling alone: Social capital and Covid-19](https://cepr.org/sites/default/files/news/CovidEconomics17.pdf)** (with F. Borgovoni)  
 *CEPR COVID Economics, issue 17, p. 73 - 96, 2020*
-
-### Work in progress
-**Bowling together by bowling alone: Social capital and Covid-19** (with F. Borgovoni) 
 
 ### Pre-doctoral publications
 **[Digital gender divide](http://www.oecd.org/sti/education-and-skills-in-bridging-the-digital-gender-divide-evidence-from-apec.pdf)** (with F. Borgovoni, A.S. Liebender and M. Squicciarini)  
