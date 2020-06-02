@@ -85,7 +85,7 @@ analytics:
 author:
   name             : "Elodie Andrieu"
   avatar           : "photo_andrieu_website.jpg"
-  bio              : "[CV (pdf)](http://elodieandrieu.github.io/files/1. CV - ANDRIEU, ELODIE.pdf)"
+  bio              : 
                                                                                                                                                                       "
   location         :
   employer         : "King's College London"
@@ -102,7 +102,7 @@ author:
   github           : "elodieandrieu"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "elodie"
   lastfm           :
   linkedin         : "elodie-andrieu-228134127/"
   orcid            : 
@@ -117,7 +117,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  cv               : [CV (pdf)](http://elodieandrieu.github.io/files/1. CV - ANDRIEU, ELODIE.pdf)
+  cv               : 
 
 
 
