@@ -18,3 +18,5 @@ I was part of the Economic, Analysis and Statistics research team working on est
 ### Research interests:
 
 *Labour economics, automation, productivity and tasks/skills*
+
+### [CV (pdf)](http://elodieandrieu.github.io/files/1. CV - ANDRIEU, ELODIE.pdf)
