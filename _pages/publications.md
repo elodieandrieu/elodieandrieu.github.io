@@ -2,7 +2,6 @@
 layout: archive
 permalink: /publications/
 ---
-### Work in progress
 **Bowling together by bowling alone: Social capital and Covid-19** (with F. Borgovoni) 
 
 ### Publications
