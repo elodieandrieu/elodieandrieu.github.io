@@ -8,11 +8,11 @@ Next version: Community-Level Social Capital and COVID-19 Infections and Fatalit
 
 ### Publications
 [Community-Level Social Capital and COVID-19 Infections and Fatality in the United States](https://cepr.org/file/9252/download?token=UvHyo3s6) (with F. Borgovoni and S.V. Subramanian)  
-*CEPR Covid Economics: Vetted and Real-Time Papers, issue 32, p. XX-XX, 2020*, VoxEU
+*CEPR Covid Economics: Vetted and Real-Time Papers, issue 32, p. XX-XX, 2020*, [VoxEU](https://voxeu.org/article/community-level-social-capital-and-covid-19-infections-and-fatality-us)
 
 
 [Bowling together by bowling alone: Social capital and Covid-19](https://cepr.org/sites/default/files/news/CovidEconomics17.pdf) (with F. Borgovoni)  
-*CEPR Covid Economics: Vetted and Real-Time Papers, issue 17, p. 73 - 96, 2020*, VoxEU
+*CEPR Covid Economics: Vetted and Real-Time Papers, issue 17, p. 73 - 96, 2020*, [VoxEU](https://voxeu.org/article/social-capital-and-social-distancing-us)
 
 ### Pre-doctoral publications
 [The role of education and skills in bridging the digital gender divide, evidence from APEC countries](http://www.oecd.org/sti/education-and-skills-in-bridging-the-digital-gender-divide-evidence-from-apec.pdf) (with F. Borgovoni, A.S. Liebender and M. Squicciarini)  
