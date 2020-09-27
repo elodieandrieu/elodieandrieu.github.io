@@ -16,6 +16,9 @@ redirect_from:
 
 
 ### Work experience
+* June 2020 - December 2020: Consultant at the **Organisation for Economic Co-operation and Development**
+*Science, Technology and Innovation (STI) and Economics Directorate, report on “COVID-19 crisis and labour markets”, with Chiara Criscuola, Cyrile Schwellnus and Mariagrazia Squicciarini*
+
 * February 2020 - present: RA Francesca Borgonovi, **University College London**
 
 * June 2018 - July 2019: Consultant at the **Organisation for Economic Co-operation and Development** - Paris  
@@ -29,4 +32,4 @@ redirect_from:
 * Nationality: French & English
 * Programming: STATA, R, SAS, Matlab, LaTeX
 
-[CV (pdf)](http://elodieandrieu.github.io/files/1. CV - ANDRIEU, ELODIE.pdf)
+[CV (pdf - updated August 2019)](http://elodieandrieu.github.io/files/1. CV - ANDRIEU, ELODIE.pdf)
