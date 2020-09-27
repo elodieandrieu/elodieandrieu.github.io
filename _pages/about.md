@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am a first-year economics PhD student at **King's College London**, under the supervision of **Professor Mary O'Mahony** and **Dr John Morrow**.
+I am a first-year economics PhD student at **King's College London**, under the supervision of **Pr Mary O'Mahony** and **Dr John Morrow**.
 I hold a Master degree in Economics from the **Paris School of Economics**, and BA degree in Economics from the **Aix-Marseille University**. 
 
 Prior to joining King’s College London, I worked as a Consultant at **The Organisation for Economic Co-operation and Development** (OECD) in Paris in the Science, Technology and Innovation department, under the supervision of Dr. Mariagrazia Squicciarini.
@@ -19,4 +19,4 @@ I was part of the Economic, Analysis and Statistics research team working on est
 
 *Labour economics, automation, productivity and tasks/skills*
 
-### [CV (pdf)](http://elodieandrieu.github.io/files/1. CV - ANDRIEU, ELODIE.pdf)
+### [CV (pdf) - updated August 2019](http://elodieandrieu.github.io/files/1. CV - ANDRIEU, ELODIE.pdf)
