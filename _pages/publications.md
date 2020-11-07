@@ -3,7 +3,6 @@ layout: archive
 permalink: /publications/
 ---
 ## Work in progress
-Next version: Bowling together by bowling alone: Social capital and Covid-19 (with F. Borgovoni)
 
 Next version: Community-Level Social Capital and COVID-19 Infections and Fatality in the United States (with F. Borgovoni and S.V. Subramanian)
 
