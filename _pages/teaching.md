@@ -6,8 +6,8 @@ author_profile: true
 ---
 
 ### TA - KCL London, 2020:
-    - Undergraduate level, Hector Espinoza and Christian Darko
-    - Undergraduate level, John Morrow and Sotiris Vandoros
+* Principles of economics, undergraduate level, Hector Espinoza and Christian Darko  
+* Introduction to microeconomics, undergraduate level, John Morrow and Sotiris Vandoros
 
 {% include base_path %}
 
