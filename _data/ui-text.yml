@@ -25,7 +25,7 @@ en: &DEFAULT_EN
   feed_label                 : "Feed"
   powered_by                 : "Powered by"
   website_label              : "Website"
-  email_label                : "Email"
+  email_label                : "E-mail"
   recent_posts               : "Recent Posts"
   undefined_wpm              : "Undefined parameter words_per_minute at _config.yml"
   comment_form_info          : "Your email address will not be published. Required fields are marked"
@@ -117,7 +117,7 @@ fr: &DEFAULT_FR
   feed_label                 : "Flux"
   powered_by                 : "Propulsé par"
   website_label              : "Site"
-  email_label                : "Email"
+  email_label                : "E-mail"
   recent_posts               : "Posts récents"
   undefined_wpm              : "Le paramètre words_per_minute n'est pas défini dans _config.yml"
   comment_form_info          :
