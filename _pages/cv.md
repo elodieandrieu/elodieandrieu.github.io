@@ -9,27 +9,28 @@ redirect_from:
 {% include base_path %}
 
 ### Education
-* Ph.D in Economics - **King's College London** - 1<sup>st</sup> year
-* Master degree in Economics - **Paris School of Economics** (École des Hautes Etudes en Sciences Sociales)  
+* 2<sup>nd</sup> year Ph.D in Economics, **King's College London**, 2019
+* Master degree in Economics, **Paris School of Economics (EHESS)**, 2017/18
 *Master thesis: "Robots and workers: competition or collaboration?" under the supervision of Prof. Jean Imbs*
-* B.A. in Economics - **Aix-Marseille University**
+* B.A. in Economics, **Aix-Marseille University**, 2012/16
 
 
 ### Work experience
-* June 2020 - December 2020: Consultant at the **Organisation for Economic Co-operation and Development**
-*Science, Technology and Innovation (STI) and Economics Directorate, report on “COVID-19 crisis and labour markets”, with Chiara Criscuola, Cyrile Schwellnus and Mariagrazia Squicciarini*
+* Consultant at the **Organisation for Economic Co-operation and Development**, June 2020 - December 2020
+*Science, Technology and Innovation (STI) and Economics Directorates, report on “COVID-19 crisis and labour markets”, with Chiara Criscuola, Giuseppe Nicoletti, Cyrile Schwellnus and Mariagrazia Squicciarini*
 
-* February 2020 - present: RA Francesca Borgonovi, **University College London**
+* RA Francesca Borgonovi, **University College London**, February 2020 - present
 
-* June 2018 - July 2019: Consultant at the **Organisation for Economic Co-operation and Development** - Paris  
+* Consultant at the **Organisation for Economic Co-operation and Development**, 2018/19  
 *Science, Technology and Innovation (STI) Directorate, contributing in “Jobs and Skills” module of the horizontal “Going Digital” project, under the supervision of Mariagrazia Squicciarini*
 
-* January 2018--February 2108: Conducting field surveys for **The Abdul Latif Jameel Poverty Action Lab** - Paris  
+* Conducting field surveys for **The Abdul Latif Jameel Poverty Action Lab**, Paris, 2018
 *"Surveys Voisin Malin - Petite Enfance"*
 
 ### Personal
 * Languages: French (native), English (native), Spanish (beginner)
 * Nationality: French & English
 * Programming: STATA, R, SAS, Matlab, LaTeX
+* Jogging and skiing
 
 [CV (pdf - updated August 2019)](http://elodieandrieu.github.io/files/1. CV - ANDRIEU, ELODIE.pdf)
