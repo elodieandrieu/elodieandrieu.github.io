@@ -24,7 +24,7 @@ redirect_from:
 * Consultant at the **Organisation for Economic Co-operation and Development**, 2018/19  
 *Science, Technology and Innovation (STI) Directorate, contributing in “Jobs and Skills” module of the horizontal “Going Digital” project, under the supervision of Mariagrazia Squicciarini*
 
-* Conducting field surveys for **The Abdul Latif Jameel Poverty Action Lab**, Paris, 2018
+* Conducting field surveys for **The Abdul Latif Jameel Poverty Action Lab**, Paris, 2018  
 *"Surveys Voisin Malin - Petite Enfance"*
 
 ### Personal
