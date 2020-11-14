@@ -1,7 +1,9 @@
 ---
 layout: archive
+excerpt: "Research"
 title: "  "
 permalink: /research/
+author_profile: true
 ---
 
 ## Work in progress
