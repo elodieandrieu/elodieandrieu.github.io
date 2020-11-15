@@ -20,7 +20,4 @@ I was part of the Economic, Analysis and Statistics research team working on est
 
 Labour economics, automation, productivity and tasks/skills
 
-### Meilleures copines
-Le comité du destin ;) 
-
 ### [CV (pdf) - updated August 2019](http://elodieandrieu.github.io/files/1. CV - ANDRIEU, ELODIE.pdf)
