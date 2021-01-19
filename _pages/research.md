@@ -8,8 +8,9 @@ author_profile: true
 
 ## Work in progress
 
-Next version of Community-Level Social Capital and COVID-19 Infections and Fatality in the United States (with F. Borgovoni and S.V. Subramanian).  
-Working on BGT data.
+Next version of Community-Level Social Capital and COVID-19 Infections and Fatality in the United States (with F. Borgovoni and S.V. Subramanian) - submitted.
+
+Working on BGT data (on-going work about covid-19, digital readiness of firms and vocational education)
 
 ## Publications
 
