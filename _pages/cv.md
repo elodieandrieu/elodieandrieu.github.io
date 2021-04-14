@@ -7,6 +7,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+[CV (pdf - updated Aug 19)](http://elodieandrieu.github.io/files/1. CV - ANDRIEU, ELODIE.pdf)
 
 ### Education
 * 2<sup>nd</sup> year Ph.D in Economics, **King's College London**, 2019
@@ -33,4 +34,3 @@ redirect_from:
 * Programming: STATA, R, SAS, Matlab, LaTeX
 * Jogging and skiing
 
-[CV (pdf - updated August 2019)](http://elodieandrieu.github.io/files/1. CV - ANDRIEU, ELODIE.pdf)
