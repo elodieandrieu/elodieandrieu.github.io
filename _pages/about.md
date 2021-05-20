@@ -20,4 +20,4 @@ I was part of the Economic, Analysis and Statistics research team working on est
 
 Labour economics, automation, firms, productivity and tasks/skills
 
-### [CV (pdf) - updated August 2019](http://elodieandrieu.github.io/files/1. CV - ANDRIEU, ELODIE.pdf)
+### [CV (pdf) - updated May 2021](http://elodieandrieu.github.io/files/CV_Andrieu_nobac_nopicture.pdf)
