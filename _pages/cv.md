@@ -7,7 +7,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-[CV (pdf - updated Aug 19)](http://elodieandrieu.github.io/files/1. CV - ANDRIEU, ELODIE.pdf)
+[CV (pdf - updated Aug 19)](http://elodieandrieu.github.io/files/CV_Andrieu_nobac_nopicture.pdf)
 
 ### Education
 * 2<sup>nd</sup> year Ph.D in Economics, **King's College London**, 2019
