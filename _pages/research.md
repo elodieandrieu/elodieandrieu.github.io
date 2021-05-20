@@ -11,7 +11,7 @@ Working on BGT data (on-going work about covid-19, digital readiness of firms an
 
 ## Publications
 [The evolution of the association between community level social capital and COVID-19 deaths and hospitalizations in the United States](https://www.sciencedirect.com/science/article/pii/S027795362100280X?dgcid=rss_sd_all) (with F. Borgovoni and S.V. Subramanian)  
-*Social Science & Medicine*, 2021, https://doi.org/10.1016/j.socscimed.2021.113948.
+*Social Science & Medicine*, 2021, https://doi.org/10.1016/j.socscimed.2021.113948. [The Academic Times](https://academictimes.com/communities-with-stronger-social-connections-saw-fewer-covid-19-deaths/).
 
 [Bowling together by bowling alone: Social capital and Covid-19](https://www.sciencedirect.com/science/article/pii/S0277953620307206?dgcid=rss_sd_all) (with F. Borgovoni)  
 *Social Science & Medicine*, 2020, https://doi.org/10.1016/j.socscimed.2020.113501.
