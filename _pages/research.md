@@ -7,7 +7,9 @@ author_profile: true
 ---
 
 ## Work in progress
-Working on BGT data (on-going work about covid-19, digital readiness of firms and education)
+Working on BGT data (on-going work about covid-19, education, tech skills).
+
+Minimum Wage and Skills: Evidence from Job Vacancy Data (with Malgorzata Kuczera) - first draft available (2022).
 
 ## Publications
 [The evolution of the association between community level social capital and COVID-19 deaths and hospitalizations in the United States](https://www.sciencedirect.com/science/article/pii/S027795362100280X?dgcid=rss_sd_all) (with F. Borgovoni and S.V. Subramanian)  
