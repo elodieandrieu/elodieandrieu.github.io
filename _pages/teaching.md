@@ -5,6 +5,9 @@ permalink: /teaching/
 author_profile: true
 ---
 
+### TA - KCL London, 2022:
+* Advanced mathematics for economists, undergraduate level, Omid Mazdak and Eddy Tam
+
 ### TA - KCL London, 2021:
 * Mathematics for economists, undergraduate level, Seyhun Sakalli and Dimitrios Minos
 * Principles of economics, undergraduate level, Hector Espinoza and Christian Darko  
