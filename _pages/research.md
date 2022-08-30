@@ -9,6 +9,9 @@ author_profile: true
 ## Work in progress
 Working on BGT data (on-going work about covid-19, education, tech skills). On-going work using the French firm level data.
 
+Innovation and Multi-Establishment Firm Structure (with John Morrow) - first version of slides available (August 2022).
+Abstract: XXXX
+
 Minimum Wage and Skills: Evidence from Job Vacancy Data (with M. Kuczera) - first draft available (Feb 2022).
 Abstract: Low-wage occupations tend to be populated by workers with low levels of education. An increase in the minimum wage, while designed to protect workers in the low part of the wage distribution, might result in unintended consequences for those same workers. In this paper, we study firms' reaction to higher minimum wages, exploiting the 2016 minimum-wage policy in the UK. We document how an increase in the minimum wage affects the labour hiring for different education and technical skill levels of workers. The results show that an increase in the minimum wage compressed the demand for low-educated workers while at the same time expanded the demand for workers with technical skills (tech workers) in low and middle skilled occupations. Using a differences-in-differences framework, we find that a large and unexpected change to the minimum wage led to a 6 percentage point decrease in the proportion of non-graduate vacancies. There is evidence for labour-labour substitution and labour-capital substitution as a way to compensate for labour costs increases.
 
