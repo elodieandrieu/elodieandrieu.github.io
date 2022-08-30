@@ -10,7 +10,7 @@ redirect_from:
 [CV (pdf - updated May 21)](http://elodieandrieu.github.io/files/CV_Andrieu_nobac_nopicture.pdf)
 
 ### Education
-* 2<sup>nd</sup> year Ph.D in Economics, **King's College London**, 2019
+* 4<sup>th</sup> year Ph.D in Economics, **King's College London**, 2019
 * Master degree in Economics, **Paris School of Economics (EHESS)**, 2017/18  
 *Master thesis: "Robots and workers: competition or collaboration?" under the supervision of Prof. Jean Imbs*
 * B.A. in Economics, **Aix-Marseille University**, 2012/16
@@ -28,9 +28,16 @@ redirect_from:
 * Conducting field surveys for **The Abdul Latif Jameel Poverty Action Lab**, Paris, 2018  
 *"Surveys Voisin Malin - Petite Enfance"*
 
+
+### Workshop organised
+* King’s College London x College de France (forthcoming November 2022)
+
+
 ### Personal
-* Languages: French (native), English (native), Spanish (beginner)
+* Languages: French (native), English (native), Spanish (intermediate)
 * Nationality: French & English
-* Programming: STATA, R, SAS, Matlab, LaTeX
-* Jogging and skiing
+* Programming: R, Stata, SAS, Matlab, LaTeX
+* Jogging (London City Runner cross country team), skiing and triathlon
+
+
 
