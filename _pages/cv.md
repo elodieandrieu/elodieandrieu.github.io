@@ -17,6 +17,8 @@ redirect_from:
 
 
 ### Work experience
+* Consultant for a joint project between the **International Organization for Migration (IOM)** and the **Center for Global Development**, April 2022 - June 2022 
+
 * Consultant at the **Organisation for Economic Co-operation and Development**, June 2020 - December 2020  
 *Science, Technology and Innovation (STI) and Economics Directorates, report on “COVID-19 crisis and labour markets”, with Chiara Criscuolo, Giuseppe Nicoletti, Cyrile Schwellnus and Mariagrazia Squicciarini*
 
