@@ -6,15 +6,6 @@ permalink: /workshop/
 author_profile: true
 ---
 
-<img
-  src="/images/kings-college-london2.png"
-  alt="Alt text"
-  title="Optional title"
-  style="display: inline-block; margin: 6 auto; max-width: 100px">
-
-![My Image](/images/kings-college-london2.png)
-
-
 # Research Day for PhD and young scholars organized by King's College and the Collège de France 
 London - November 2022
 
@@ -25,3 +16,9 @@ London - November 2022
 ### Contact for information: 
 Olimpia Cutinelli-Rendina - olimpiacutinelli@hotmail.com
 Elodie Andrieu - elodie.andrieu@kcl.ac.uk
+
+<img
+  src="/images/kings-college-london2.png"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 6 auto; max-width: 150px">
