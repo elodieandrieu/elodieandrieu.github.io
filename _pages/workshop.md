@@ -6,6 +6,12 @@ permalink: /workshop/
 author_profile: true
 ---
 
+<img
+  src="/images/kings-college-london2.png"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
+
 ![My Image](/images/kings-college-london2.png)
 
 
