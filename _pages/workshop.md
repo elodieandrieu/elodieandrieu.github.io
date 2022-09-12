@@ -6,7 +6,7 @@ permalink: /workshop/
 author_profile: true
 ---
 
-![My Image](images/kings-college-london2.png)
+![My Image](/images/kings-college-london2.png)
 
 
 # Research Day for PhD and young scholars organized by King's College and the Collège de France 
