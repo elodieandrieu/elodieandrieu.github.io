@@ -11,3 +11,6 @@ main:
     
   - title: "Code and Data"
     url: /dataandcode/
+    
+  - title: "Workshop"
+    url: /workshop/
