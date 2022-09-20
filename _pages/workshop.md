@@ -22,8 +22,8 @@ The Research day consists of a mix between short presentations (20 minutes) and 
 
 The workshop is jointly organised by King's College London and the Collège de France:
 * Olimpia Cutinelli-Rendina (olimpia.cutinelli-rendina[at]college-de-france[dot]fr), and 
-* Elodie Andrieu (elodie.andrieu[at]kcl[dot]ac[dot]uk).  
-We gratefully acknowledge the generous support from KBS KCL.
+* Elodie Andrieu (elodie.andrieu[at]kcl[dot]ac[dot]uk).   
+If you would like to attend, please contact us. We gratefully acknowledge the generous support from KBS KCL.
 
 
 <p align="center" width="100%">
