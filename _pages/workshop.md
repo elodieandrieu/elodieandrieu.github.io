@@ -20,19 +20,6 @@ London - 15 November 2022
 * Olimpia Cutinelli-Rendina - olimpia.cutinelli-rendina[at]college-de-france[dot]fr
 * Elodie Andrieu - elodie.andrieu[at]kcl[dot]ac[dot]uk
 
-<img
-  src="/images/kings-college-london2.png"
-  alt="Alt text"
-  title="Optional title"
-  style="display: inline-block; margin: 6 auto; max-width: 150px">
-  
-  
-  <p align="center">
-  <img width="600" height="200" src="/images/kings-college-london2.png" 
-       style="display: inline-block; margin: 6 auto; max-width: 100px" 
-        alt="Alt text" >
-</p>
-
 <p align="center" width="100%">
-    <img width="33%" src="/images/kings-college-london2.png">
+    <img width="50%" src="/images/kings-college-london2.png">
 </p>
