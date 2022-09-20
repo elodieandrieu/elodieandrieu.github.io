@@ -32,3 +32,7 @@ London - 15 November 2022
        style="display: inline-block; margin: 6 auto; max-width: 100px" 
         alt="Alt text" >
 </p>
+
+<p align="center" width="100%">
+    <img width="33%" src="/images/kings-college-london2.png">
+</p>
