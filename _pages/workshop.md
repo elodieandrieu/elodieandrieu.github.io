@@ -22,7 +22,7 @@ The Research day consists of a mix between short presentations (20 minutes) and 
 3. Arriving at KCL: registration information will be provided.  
 
 ### Organisers contact info (Collège de France and King's College London):
-* Olimpia Cutinelli-Rendina (olimpia.cutinelli-rendina[at]college-de-france[dot]fr), and 
+* [Olimpia Cutinelli-Rendina](https://sites.google.com/view/ocutinelli-rendina/accueil) (olimpia.cutinelli-rendina[at]college-de-france[dot]fr), and 
 * Elodie Andrieu (elodie.andrieu[at]kcl[dot]ac[dot]uk).   
 
 <p align="center" width="80%">
