@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 ### TA - KCL London, 2022:
+* Game Theory, undergraduate level, Niall Hughes
 * Advanced mathematics for economists, undergraduate level, Omid Mazdak and Eddy Tam
 
 ### TA - KCL London, 2021:
