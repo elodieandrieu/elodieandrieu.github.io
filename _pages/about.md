@@ -21,4 +21,4 @@ I mainly work on the French firm level data to understand propagation of innovat
 
 Labour economics, innovation, firms dynamics, productivity and tasks/skills
 
-### [CV (pdf) - updated May 2021](http://elodieandrieu.github.io/files/CV_Andrieu_nobac_nopicture.pdf)
+### [CV (pdf) - updated May 2021](http://elodieandrieu.github.io/files/CV_andrieu_v1.pdf)
