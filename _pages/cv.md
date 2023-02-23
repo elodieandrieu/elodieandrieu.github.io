@@ -7,7 +7,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-[CV (pdf - updated May 21)](http://elodieandrieu.github.io/files/CV_andrieu_v1.pdf)
+[CV (pdf - updated Jan 23)](http://elodieandrieu.github.io/files/CV_andrieu_v1.pdf)
 
 ### Education
 * 4<sup>th</sup> year Ph.D in Economics, **King's College London**, 2019
