@@ -7,7 +7,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-[CV (pdf - updated May 21)](http://elodieandrieu.github.io/files/CV_Andrieu_nobac_nopicture.pdf)
+[CV (pdf - updated May 21)](http://elodieandrieu.github.io/files/CV_andrieu_v1.pdf)
 
 ### Education
 * 4<sup>th</sup> year Ph.D in Economics, **King's College London**, 2019
@@ -22,7 +22,7 @@ redirect_from:
 * Consultant at the **Organisation for Economic Co-operation and Development**, June 2020 - December 2020  
 *Science, Technology and Innovation (STI) and Economics Directorates, report on “COVID-19 crisis and labour markets”, with Chiara Criscuolo, Giuseppe Nicoletti, Cyrile Schwellnus and Mariagrazia Squicciarini*
 
-* RA Francesca Borgonovi, **University College London**, February 2020 - present
+* RA Francesca Borgonovi, **University College London**, February 2020 - 2022
 
 * Consultant at the **Organisation for Economic Co-operation and Development**, 2018/19  
 *Science, Technology and Innovation (STI) Directorate, contributing in “Jobs and Skills” module of the horizontal “Going Digital” project, under the supervision of Mariagrazia Squicciarini*
