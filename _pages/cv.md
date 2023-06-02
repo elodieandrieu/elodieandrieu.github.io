@@ -31,10 +31,10 @@ redirect_from:
 *"Surveys Voisin Malin - Petite Enfance"*
 
 ### Seminars and Conferences
-2023 : QMUL Brownbag Seminar, OECD PIE Brownbag Seminar, City University Lunch Seminar, GEP/CEPR Annual Postgraduate Conference, KCL Brownbag Seminar, KCL Symposium, Eu-SPRI (Brighton), 64th Annual Conference of the Italian Economic Association (forthcoming).
-2022 : Text as data conference (Zurich), Low Pay Commission (London), ESCOE (Glasgow), TPI Talks (Manchester), Research Day College de France x King’s (London), OECD Labour Brownbag Seminar (Paris).
-2021 : OECD CIIE webinar on BGT (Paris).
-2020 : Exploring Online Job Vacancy Data.
+* 2023 : QMUL Brownbag Seminar, OECD PIE Brownbag Seminar, City University Lunch Seminar, GEP/CEPR Annual Postgraduate Conference, KCL Brownbag Seminar, KCL Symposium, Eu-SPRI (Brighton), 64th Annual Conference of the Italian Economic Association (forthcoming).
+* 2022 : Text as data conference (Zurich), Low Pay Commission (London), ESCOE (Glasgow), TPI Talks (Manchester), Research Day College de France x King’s (London), OECD Labour Brownbag Seminar (Paris).
+* 2021 : OECD CIIE webinar on BGT (Paris).
+* 2020 : Exploring Online Job Vacancy Data.
 
 ### Workshop organised
 * Junior Research Day - King’s College London x College de France (November 2022)
