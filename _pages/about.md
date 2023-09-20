@@ -9,16 +9,12 @@ redirect_from:
 ---
 ### About me
 
-I am a fourth-year economics PhD student at **King's College London**, under the supervision of **Mary O'Mahony** and **John Morrow**.
-I hold a Master degree in Economics from the **Paris School of Economics**, and BA degree in Economics from the **Aix-Marseille University**. 
+I am a Post-Doctoral Fellow at **Paris School of Economics**. I obtained my PhD from **King's College London** in 2023. Prior to joining King’s College London, I worked as a Consultant at **The Organisation for Economic Co-operation and Development** (OECD) in Paris in the Science, Technology and Innovation department.
 
-Prior to joining King’s College London, I worked as a Consultant at **The Organisation for Economic Co-operation and Development** (OECD) in Paris in the Science, Technology and Innovation department, under the supervision of Dr. Mariagrazia Squicciarini.
-I was part of the Economic, Analysis and Statistics research team working on estimating the monetary cost of the training needed to move workers displaced by automation across occupations.
-
-I mainly work on the French firm level data to understand propagation of innovation within boundaries of firms. I also use Burning Glass Technologies data in many different projects (covid-19, education, tech skills). 
+My research focuses on the interaction between firm organisations and innovation, by studying how firms distribute resources internally, and the resulting spillovers far from headquarters. I mainly work on the French firm level data to understand propagation of innovation within boundaries of firms. I also use Burning Glass Technologies data in many different projects (covid-19, education, tech skills). 
 
 ### Research interests
 
-Labour economics, innovation, firms dynamics, productivity and tasks/skills
+Firms dynamics, innovation, labour economics, productivity and tasks/skills.
 
-### [CV (pdf) - updated Jan 23](http://elodieandrieu.github.io/files/CV_andrieu_v1.pdf)
+You can contact me at elodie.andrieu[@]psemail.eu and find my [CV (pdf) - updated Jan 23](http://elodieandrieu.github.io/files/CV_andrieu_v1.pdf) here.
