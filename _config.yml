@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
 name                     : &name "                                            Elodie Andrieu"
-description              : &description "Economics PhD student at King's College"
+description              : &description "Economics Post Doc at PSE"
 url                      : https://elodieandrieu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "elodieandrieu/elodieandrieu.github.io"
@@ -88,9 +88,9 @@ author:
   bio              : "
                                                                                                                                                                       "
   location         : # "https://www.google.com/search?safe=strict&tbm=lcl&sxsrf=ALeKk01AiHftkTxRz_l8wQns3uucj1nEVQ:1614004354850&q=king%27s+college+london+bush+house&spell=1&sa=X&ved=0ahUKEwjL-fHh2v3uAhXqURUIHXJ3CTEQBQgeKAA&biw=1429&bih=653&dpr=2#rlfi=hd:;si:9003414971234508125;mv:[[51.5132377,-0.11567079999999999],[51.511387299999996,-0.1178667]]"
-  employer         : "King's College London"
+  employer         : "Paris School of Economics"
   googlescholar    : 
-  email            : "elodie.andrieu@kcl.ac.uk"
+  email            : "elodie.andrieu@psemail.eu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
