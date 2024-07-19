@@ -17,4 +17,4 @@ My research focuses on the interaction between firm organisations and innovation
 
 Firms dynamics, innovation, labour economics, productivity and tasks/skills.
 
-You can contact me at elodie.andrieu[@]psemail.eu and find my [CV (pdf) - updated Jan 23](http://elodieandrieu.github.io/files/CV_andrieu_v1.pdf) here.
+You can contact me at elodie.andrieu[@]psemail.eu and find my [CV (pdf) - updated July 24](http://elodieandrieu.github.io/files/CV_andrieu_v1.pdf) here.
