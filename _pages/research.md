@@ -6,17 +6,35 @@ permalink: /research/
 author_profile: true
 ---
 
-## Work in progress
-Working on the French firm level data to study location of innovation. BGT data (on-going work about covid-19, education, tech skills). 
+**Job Market Paper: Can Firm Subsidies Spread Growth?** (with John Morrow)
+How do firms diffuse resources, and can this result in spillovers outside headquarter intensive areas ? We show
+subsidies induce French firms to hire new workers, mainly in new establishments and often in new commuting
+zones, with little evidence of reallocation. The most subsidy responsive occupations are techies in line with
+R&D targeting. Using the predicted employment from subsidies and past employment patterns, we estimate
+a within industry local spillover elasticity of .23. For openings outside of headquarter areas, this rises to .44
+and we find no effect at the commuting zone level. We find a similar effect of spillovers across firm branches.
+While subsidies are awarded to headquarters in advanced areas, firms redistribute resources and spillovers
+more broadly.
 
-[Multi-establishment Firm Structure and Subsidies](http://elodieandrieu.github.io/files/SubsidiesAbstract.pdf) (with John Morrow) - draft available.
-Abstract: How do firms diffuse resources, and does this result in spillovers far from headquarters?  We show subsidies induce French firms to hire new workers, mainly in new establishments and often in new commuting zones, with little evidence of reallocation.  The most hiring responsive occupations are techies and support workers in line with R&D targeting. We estimate a subsidy employment spillover elasticity of .11 at the commuting zone level within industry, but weak effects in the commuting zone. Dispersed industries have half this elasticity and concentrated industries twice this elasticity. While subsidies are awarded to headquarters in advanced areas, firms redistribute effects more broadly.
+## Working Papers
 
-Minimum Wage and Skills: Evidence from Job Vacancy Data - new draft available (April 2024).
-Abstract: Increases in the minimum wage are designed to benefit low wage workers, but may have unintended consequences if firms attempt to compensate for the increased labour costs, through substituting the low skilled with different types of labour or new technology adoption. Following a large and unexpected increase in UK minimum wages in 2016, we document how it compressed both the demand for low-educated workers and the demand for jobs at high Risk Of Automation (ROA), while increasing demand for technical skills. Using a difference-in-differences framework, this paper provides evidence for labour-labour substitution at the low-end of the skill distribution to adapt to minimum wage increases. It also supports labour-technology substitution, as the policy both reduces the share of jobs that can more easily be replaced by new technology, and increases the share of jobs requiring advanced technical skills. 
+**Minimum Wage and Skills : Evidence from Job Vacancy Data** (with Mary O’Mahony)
+Increases in the minimum wage aim to benefit low-wage workers but may lead firms to offset costs by substituting low-skilled labor with higher-skilled workers or adopting new technology. Following a significant and unexpected UK minimum wage hike in 2016, we found a reduced demand for low-educated and high Risk of Automation (ROA) jobs, coupled with an increased demand for technical skills. Using a differencein-differences framework, this paper provides evidence of labor-labor substitution at the low-end of the skill distribution and labor-technology substitution, showing a shift towards jobs requiring advanced technical skills.
 
-Uncertainty and the COVID-19 crisis: Evidence from online job postings (with C. Criscuolo and M. Squicciarini) - first draft available (2021).
-Abstract: The COVID-19 pandemic has triggered large declines in economic activity, impacting different industries, firms and workers in heterogeneous ways. This paper uses Burning Glass Technologies’ online job posting data for the United Kingdom for the period 2019-May 21 to study the impact of the decline in activity and rise in uncertainty related to the pandemic on local labour markets. This paper uses a measure of local labour market exposure to the global pandemic shock. We find that areas that were more exposed saw a larger decline in online job adverts during the crisis. Controlling for demand and supply shocks, rise in global uncertainty has an additional effect on labour markets that needs to be taken into account to quantify the effects of the crisis.
+**Measuring the Impact of Lobbying by Exploiting the Complementarity Between Influence Tools** (with Olimpia Cutinelli-Rendina)
+How does corporate lobbying affect firm performance ? We provide evidence that lobbying and campaign contributions are strategically linked, and firms use campaign contributions as long-term investments recognizing that legislators will enter important committees over time. We exploit this complementarity using a shift-share instrumental variable design to estimate the impact of lobbying on firm size, financial performance and investments. We find that lobbying positively impacts sales, financial performance and capital expenditures, but not R&D expenditures.
+
+**Uncertainty and the COVID-19 crisis: Evidence from online job postings** (with C. Criscuolo and M. Squicciarini)
+The COVID-19 pandemic has triggered large declines in economic activity, impacting different industries, firms and workers in heterogeneous ways. This paper uses Burning Glass Technologies’ online job posting data for the United Kingdom for the period 2019-May 21 to study the impact of the decline in activity and rise in uncertainty related to the pandemic on local labour markets. This paper uses a measure of local labour market exposure to the global pandemic shock. We find that areas that were more exposed saw a larger decline in online job adverts during the crisis. Controlling for demand and supply shocks, rise in global uncertainty has an additional effect on labour markets that needs to be taken into account to quantify the effects of the crisis.
+
+
+## Work In Progress
+Business Groups and Innovation (with Ariell Reshef and Farid Toubal)
+
+Innovation in Family Business (with Olimpia Cutinelli Rendina)
+
+Subsidies and Firms (with Farid Toubal)
+
 
 ## Pre-doctoral and policy work
 
