@@ -7,14 +7,7 @@ author_profile: true
 ---
 
 **Job Market Paper: Can Firm Subsidies Spread Growth?** (with John Morrow)
-How do firms diffuse resources, and can this result in spillovers outside headquarter intensive areas ? We show
-subsidies induce French firms to hire new workers, mainly in new establishments and often in new commuting
-zones, with little evidence of reallocation. The most subsidy responsive occupations are techies in line with
-R&D targeting. Using the predicted employment from subsidies and past employment patterns, we estimate
-a within industry local spillover elasticity of .23. For openings outside of headquarter areas, this rises to .44
-and we find no effect at the commuting zone level. We find a similar effect of spillovers across firm branches.
-While subsidies are awarded to headquarters in advanced areas, firms redistribute resources and spillovers
-more broadly.
+How do firms diffuse resources, and can this result in spillovers outside headquarter intensive areas?  We show R&D subsidies induce French firms to hire new workers, especially techies, mainly in new establishments and often in new commuting zones, with little evidence of reallocation.  Using predicted employment specific to subsidies and past employment patterns, we estimate a within industry local spillover elasticity of .26 to non-subsidy firms, rising to .35 for openings outside of headquarter areas.  We also find significant effects within firm across branches, although when aggregated to the firm level, only employment from subsidized firms induce spillovers. While subsidies are nominally awarded to headquarters, firms expand to distribute spillovers more broadly.
 
 ## Working Papers
 
