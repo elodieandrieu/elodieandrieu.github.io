@@ -26,7 +26,7 @@ If you are interested in attending the next edition please fill out the [followi
 
 ### Organisers contact info:
 * [Olimpia Cutinelli-Rendina](https://sites.google.com/view/ocutinelli-rendina/accueil) (olimpia.cutinelli-rendina[at]college-de-france[dot]fr),
-* Meng Yu Ngov (meng_yu.ngov[at]kcl[dot]ac[dot]uk),
+* [Meng Yu Ngov](https://www.kcl.ac.uk/people/meng-yu-ngov) (meng_yu.ngov[at]kcl[dot]ac[dot]uk),
 * [Fabien Petit](https://www.fabienpetit.com) (f.petit[at]ucl[dot]ac[dot]uk), and
 * Elodie Andrieu (elodie.andrieu[at]kcl[dot]ac[dot]uk).
 
