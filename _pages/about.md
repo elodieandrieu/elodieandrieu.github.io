@@ -15,6 +15,7 @@ My research focuses on the interaction between firm organisations and innovation
 ## Research interests
 Firms dynamics, innovation, labour, subsidies.
 
-### [!! Draft Available !!](http://elodieandrieu.github.io/files/andrieu_morrow_can_firm_subsidies_spread_gowth_sept2024.pdf) Can Firm Subsidies Spread Growth?
+## Latest News:
+### [!! Draft Available !!](http://elodieandrieu.github.io/files/andrieu_morrow_can_firm_subsidies_spread_gowth_sept2024.pdf) for *Can Firm Subsidies Spread Growth?*
 
 You can contact me at elodie.andrieu[@]psemail.eu and find my [CV (pdf) - updated July 24](http://elodieandrieu.github.io/files/CV_andrieu_v1.pdf) here.
