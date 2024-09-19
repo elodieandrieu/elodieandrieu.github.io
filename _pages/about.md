@@ -17,5 +17,5 @@ You can contact me at elodie.andrieu[@]psemail.eu and find my [CV (pdf) - update
 ## Research interests
 Firms dynamics, innovation, labour, subsidies.
 
-## Latest News:
+## Latest news
 ### [!! Draft Available !!](http://elodieandrieu.github.io/files/andrieu_morrow_can_firm_subsidies_spread_gowth_sept2024.pdf) for *Can Firm Subsidies Spread Growth?*
