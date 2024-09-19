@@ -12,10 +12,10 @@ I am a Post-Doctoral Fellow at **Paris School of Economics**. I obtained my PhD 
 
 My research focuses on the interaction between firm organisations and innovation, by studying how firms distribute resources internally, and the resulting spillovers far from headquarters. I mainly work on the French firm level data to understand propagation of innovation within boundaries of firms. I also use Burning Glass Technologies data in many different projects (covid-19, education, tech skills). 
 
+You can contact me at elodie.andrieu[@]psemail.eu and find my [CV (pdf) - updated July 24](http://elodieandrieu.github.io/files/CV_andrieu_v1.pdf) here.
+
 ## Research interests
 Firms dynamics, innovation, labour, subsidies.
 
 ## Latest News:
 ### [!! Draft Available !!](http://elodieandrieu.github.io/files/andrieu_morrow_can_firm_subsidies_spread_gowth_sept2024.pdf) for *Can Firm Subsidies Spread Growth?*
-
-You can contact me at elodie.andrieu[@]psemail.eu and find my [CV (pdf) - updated July 24](http://elodieandrieu.github.io/files/CV_andrieu_v1.pdf) here.
