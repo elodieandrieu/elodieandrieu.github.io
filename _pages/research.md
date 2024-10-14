@@ -12,7 +12,11 @@ How do firms diffuse resources and do they spillover outside headquarter intensi
 
 ## Working Papers
 
-**Minimum Wage and Skills : Evidence from Job Vacancy Data** (with Mary O’Mahony)
+**[Family Firms in France: Macro Impact and Micro Insights](http://elodieandrieu.github.io/files/EF_EN.pdf)** (with Farid Toubal and Peio Villanueva)
+We construct a novel dataset that combines administrative and commercial data to examine the economic impact and performances of family-owned firms in France. The dataset covers a large and heterogeneous sample of both listed and privately held groups across different size categories. Our analysis describes that family firms contribute significantly to employment, value added, turnover, and trade. We differentiate between listed and privately held groups and further examine small, medium, and large groups. Family business groups are more productive than non-family groups, especially privately held ones. They offer more permanent contracts but pay lower wages. Internationalization is generally lower, particularly for non-listed groups. Family groups also show better asset efficiency and lower debt ratios, mainly among privately held groups. These findings vary across size categories.
+
+
+**Minimum Wage and Skills: Evidence from Job Vacancy Data** (with Mary O’Mahony)
 Increases in the minimum wage aim to benefit low-wage workers but may lead firms to offset costs by substituting low-skilled labor with higher-skilled workers or adopting new technology. Following a significant and unexpected UK minimum wage hike in 2016, we found a reduced demand for low-educated and high Risk of Automation (ROA) jobs, coupled with an increased demand for technical skills. Using a differencein-differences framework, this paper provides evidence of labor-labor substitution at the low-end of the skill distribution and labor-technology substitution, showing a shift towards jobs requiring advanced technical skills.
 
 **Measuring the Impact of Lobbying by Exploiting the Complementarity Between Influence Tools** (with Olimpia Cutinelli-Rendina)
