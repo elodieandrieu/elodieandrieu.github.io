@@ -20,4 +20,4 @@ Firms dynamics, innovation, labour, subsidies.
 ## Latest news
 [!! Draft Available !!](http://elodieandrieu.github.io/files/andrieu_morrow_can_firm_subsidies_spread_gowth_sept2024.pdf) for *Can Firm Subsidies Spread Growth?*
 
-Fifth Edition of the Junior Research Day on November 20th @ [University College London](https://www.ucl.ac.uk/) - London. Call for papers is still open!
+Fifth Edition of the Junior Research Day on November 20th @ [University College London](https://www.ucl.ac.uk/) - London. [Programme](http://elodieandrieu.github.io/files/JRD_PROGRAM_Nov2024.pdf)
